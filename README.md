@@ -13,7 +13,7 @@ The project was developed to expand my knowledge and hands-on experience with **
 - HTML5  
 - Bootstrap 5
 
-## Live Demo: 
+## Live Demo: https://temmydee003.github.io/EduStream-Bootstrap/
 
 ## How to Run
 ```bash
