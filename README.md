@@ -13,12 +13,12 @@ The project was developed to expand my knowledge and hands-on experience with **
 - HTML5  
 - Bootstrap 5
 
-## Live Demo: https://temmydee003.github.io/EduStream-Bootstrap/
+## Live Demo: https://temmydee-dev.github.io/EduStream-Bootstrap/
 
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/Temmydee003/EduStream-Bootstrap.git
+git clone https://github.com/temmydee-dev/EduStream-Bootstrap.git
 
 # Navigate to the project directory
 cd Edustream-Bootstrap
